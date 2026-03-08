@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "SuperChat",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T08:36:59.386174Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "「SUPERCHAT」I Don't Think This Parasocial Relationship Is Working Out",
+      "artist": "3xBlast",
+      "has_synced": true,
+      "path": "select/01_「SUPERCHAT」I_Don't_Think_This_Parasocial_Relationship_Is_Working_Out_3xBlast.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "[Superchat] I Don't Think This Parasocial Relationship Is Working Out (Instrumental)",
+      "artist": "3xBlast",
+      "has_synced": true,
+      "path": "select/02_[Superchat]_I_Don't_Think_This_Parasocial_Relationship_Is_Working_Out_(Instrumen_3xBlast.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SuperChat",
+      "artist": "PeanutsKun",
+      "has_synced": true,
+      "path": "select/03_SuperChat_PeanutsKun.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SuperChat",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_SuperChat_ピーナッツくん.txt"
+    }
+  ]
+}
